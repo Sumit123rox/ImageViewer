@@ -54,10 +54,10 @@
 - **Network Monitoring**: Real-time observation of the network state to manage offline/online behavior.
 
 ## Screenshots
-<img src="https://github.com/user-attachments/assets/999f0734-50d4-4051-ab34-cd3275f1a715" width="100" height="300">
-<img src="https://github.com/user-attachments/assets/7fb5dbd2-dc07-4bdb-8b57-c4bf8853d533" width="100" height="300">
-<img src="https://github.com/user-attachments/assets/68c0aad4-a551-43a9-a7c4-f544f869742c" width="100" height="300">
-<img src="https://github.com/user-attachments/assets/0768574d-06a3-48a5-b0ba-97f66d8cc292" width="100" height="300">
-<img src="https://github.com/user-attachments/assets/1bdf1697-8b44-4de1-af6f-e906b5771552" width="100" height="300">
+<img src="https://github.com/user-attachments/assets/999f0734-50d4-4051-ab34-cd3275f1a715" width="100" height="200">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/7fb5dbd2-dc07-4bdb-8b57-c4bf8853d533" width="100" height="200">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/68c0aad4-a551-43a9-a7c4-f544f869742c" width="100" height="200">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/0768574d-06a3-48a5-b0ba-97f66d8cc292" width="100" height="200">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/1bdf1697-8b44-4de1-af6f-e906b5771552" width="100" height="200">
 
 
