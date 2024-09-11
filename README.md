@@ -22,11 +22,11 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/JetpackComposeImageApp.git
+   git clone https://github.com/Sumit123rox/ImageViewer.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd JetpackComposeImageApp
+   cd ImageViewer
    ```
 3. Add your Unsplash API key in `local.properties`:
    ```properties
